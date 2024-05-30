@@ -19,13 +19,13 @@ Intermediate
 Tableau
 
 # Conclusion 💡
-1.Attrition Rate: The attrition rate is 16.12%, which means 237 employees out of 1470 have left the company.
+1. Attrition Rate: The attrition rate is 16.12%, which means 237 employees out of 1470 have left the company.
 
-2.High Attrition Factors: Significant attrition is observed in male employees, particularly in the R&D department, with a monthly income around $2000 and age group 28-30.
+2. High Attrition Factors: Significant attrition is observed in male employees, particularly in the R&D department, with a monthly income around $2000 and age group 28-30.
 
-3.Highest Age: The highest age observed among employees is 34, with a total of 155 employees in that age group.
+3. Highest Age: The highest age observed among employees is 34, with a total of 155 employees in that age group.
 
-4.Highest Average Monthly Income: The highest average monthly income observed is $12,156, with an employee age of 54.
+4. Highest Average Monthly Income: The highest average monthly income observed is $12,156, with an employee age of 54.
 
 In conclusion, age, tenure at the company, and income are indeed significant factors in determining employee attrition. Younger employees,
 those with shorter tenure, and employees in certain income brackets are more likely to leave the company, while longer-tenured employees and
