@@ -18,6 +18,9 @@ Intermediate
 # Tools 🛠
 Tableau
 
+Tableau Link
+https://public.tableau.com/app/profile/preksha.shah8464/vizzes
+
 # Conclusion 💡
 1. Attrition Rate: The attrition rate is 16.12%, which means 237 employees out of 1470 have left the company.
 
